@@ -1,4 +1,3 @@
-# avion_comercial.py
 from aeronave import Aeronave
 
 class AvionComercial(Aeronave):

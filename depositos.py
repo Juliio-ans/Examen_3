@@ -1,4 +1,3 @@
-# depositos.py
 from avion_carga import AvionMixto
 
 class AvionMixtoEspecial(AvionMixto):

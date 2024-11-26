@@ -1,4 +1,3 @@
-# avion_carga.py
 from avion_comercial import AvionComercial
 from cliente import AvionCarga
 

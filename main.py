@@ -1,4 +1,3 @@
-# main.py
 from aeronave import Aeronave
 from cliente import AvionCarga
 from avion_comercial import AvionComercial
@@ -77,13 +76,13 @@ def main():
     print("Avion internacional")
     print(avion_internacional.mostrar_info_internacional())
 
-    print("Avion carga")
+    print("clientes")
     print(avion_carga.mostrar_info_carga())
 
-    print("Avion mixto")
+    print("Avion de carga")
     print(avion_mixto.mostrar_info_mixto())
 
-    print("Avion mixto especial")
+    print("Depositos")
     print(avion_mixto_especial.mostrar_info_especial())
 
 

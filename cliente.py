@@ -1,4 +1,3 @@
-# cliente.py
 from aeronave import Aeronave
 
 class AvionCarga(Aeronave):

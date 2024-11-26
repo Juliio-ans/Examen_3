@@ -1,4 +1,3 @@
-# avion_regional.py
 from avion_comercial import AvionComercial
 
 class AvionRegional(AvionComercial):

@@ -1,4 +1,3 @@
-# aeronave.py
 class Aeronave:
     def __init__(self):
         self._marca = ""
